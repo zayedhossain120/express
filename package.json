@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server",
+    "dev": "node --watch server"
+  },
+  "author": "",
+  "license": "ISC"
+}
